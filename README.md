@@ -12,9 +12,10 @@ Fitur:
 9. share product
 10. load product detail
 11. buy product system
-12. logout
-13. unit testing
-14. ui testing
+12. load purchase history (if you click profile menu)
+13. logout (if you click cart menu)
+14. unit testing
+15. ui testing
 
 Note :
 * you can download apk debug version from folder "sample apk" or download from https://drive.google.com/file/d/1GGZOYIPekWeBCRqUzlgFJGNa3C209BHz/view?usp=sharing
