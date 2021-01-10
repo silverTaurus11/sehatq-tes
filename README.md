@@ -19,4 +19,4 @@ Fitur:
 
 Note :
 * you can download apk debug version from folder "sample apk" or download from https://drive.google.com/file/d/1GGZOYIPekWeBCRqUzlgFJGNa3C209BHz/view?usp=sharing
-* contact me (gayuhnh@gmail.com) if you want to try login with facebook features 
+* contact me (gayuhnh@gmail.com) if you want to try login with facebook 
