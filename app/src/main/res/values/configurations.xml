@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="base_url">https://private-4639ce-ecommerce56.apiary-mock.com</string>
+    <string name="facebook_app_id">155285116108071</string>
+    <string name="fb_login_protocol_scheme">fb155285116108071</string>
+</resources>

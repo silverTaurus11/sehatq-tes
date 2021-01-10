@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SehatQ Test</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember Me</string>
+    <string name="sign_in">Sign In</string>
+    <string name="username_is_required">Please check your username</string>
+    <string name="password_is_required">Password Length Minimum is 6 digit</string>
+    <string name="home">Home</string>
+    <string name="feed">Feed</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+    <string name="no_internet_connection">No internet connection</string>
+    <string name="favorite_product">My Favorite Product</string>
+    <string name="purchase_history">Purchase History</string>
+    <string name="buy">BUY</string>
+    <string name="transaction_date_template">Trx Date: $1</string>
+    <string name="share_to">Share to</string>
+    <string name="cancel_label">Cancel</string>
+    <string name="ok_label">OK</string>
+    <string name="logout_warning">Are you sure to Logout?</string>
+    <string name="sign_in_google">Sign in with Google</string>
+    <string name="sign_in_facebook">Sign in with Facebook</string>
+
+</resources>
