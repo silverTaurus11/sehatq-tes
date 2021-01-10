@@ -13,6 +13,9 @@ import org.junit.Test
 import org.junit.runner.RunWith
 import org.junit.runners.MethodSorters
 
+/*
+    Bila ingin menjalankan ui test ini lebih baik aplikasi dalam kondisi logout / belum login
+*/
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 @RunWith(AndroidJUnit4ClassRunner::class)
 class LoginActivityTest {
