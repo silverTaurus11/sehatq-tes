@@ -8,8 +8,10 @@ Fitur:
 5. load favorite item
 6. load category item
 7. search product
-8. load product detail
-9. buy product system
-10. logout
-11. unit testing
-12. ui testing
+8. like product
+9. share product
+10. load product detail
+11. buy product system
+12. logout
+13. unit testing
+14. ui testing
